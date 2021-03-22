@@ -1,1 +1,1 @@
-java-app
+Java-architectures
